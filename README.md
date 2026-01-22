@@ -1,8 +1,23 @@
-👨‍💻 Computer Intelligence Engineering student with a strong interest in data science, machine learning, and the development of applied mathematical models.
-🌾 Currently working on a thesis focused on predicting the spread of Ustilago maydis (corn smut) using neural networks and climate data analysis.
-📈 Experience handling large-scale CSV datasets, data preprocessing in Python, and developing predictive tools for smart agriculture.
-🚀 Continuously learning, with a focus on MLOps, model optimization, and environmental data analysis.
-<!---
-Elotertres/Elotertres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola, soy Juan Pablo Martínez Rocha 👋
+Intelligent Computing Engineer | Software Developer | AI & Data Enthusiast
+
+Ingeniero especializado en el desarrollo de soluciones inteligentes y escalables. Mi enfoque combina la robustez del desarrollo empresarial (Salesforce / Backend) con la capacidad analítica del Machine Learning.
+
+🚀 Lo que estoy haciendo actualmente:
+Salesforce Developer: Especializado en integraciones de misión crítica (APIs, SAP, E-sign) y automatización de procesos mediante Apex y LWC.
+
+ML & Smart Agriculture: Finalizando investigación sobre modelos predictivos para la propagación de Ustilago maydis (Huitlacoche) utilizando redes neuronales y análisis geoespacial.
+
+🛠️ Stack Tecnológico:
+Lenguajes: Python (TensorFlow, Pandas, Scikit-learn), Apex (SOQL), Kotlin, JavaScript.
+
+Herramientas & Data: QGIS, Git, REST APIs, SQL, Jupyter.
+
+Especialidades: Automatización de procesos, Análisis de datos espaciales y Desarrollo Móvil.
+
+📊 Proyectos Destacados:
+[Huitlacoche-Predictor]: Modelo MLP entrenado con datos climáticos para identificar zonas de riesgo agrícola.
+
+[Salesforce-Integrations]: Implementación de flujos de pago y firmas digitales sincronizados con ERPs.
+
+📫 Contactame: juan_pablo-mtz_rocha@hotmail.com
